@@ -1,4 +1,4 @@
-# Weather App with Next JS, React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
+# Weather App with React, Tanstack Query, Shadcn UI, Recharts, Tailwind, Typescript Tutorial 🔥🔥
 
 ![klimate](https://github.com/softgeek-dev/hawaman/blob/main/public/og-image.jpg?raw=true)
 
